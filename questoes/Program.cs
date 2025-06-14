@@ -11,7 +11,7 @@ class Program
       TabelaProdutos tabela = new TabelaProdutos();
 
       Console.WriteLine("Menu de Opções:");
-      Console.WriteLine("1 - Ler dados do pedido\n2 - Calcular àrea de um circulo\n3 - Escolha seu lanche\n");
+      Console.WriteLine("1 - Ler dados do pedido\n2 - Área de um círculo\n3 - Escolha seu lanche\n");
       Console.Write("Escolha uma opção: ");
       option = int.Parse(Console.ReadLine());
 

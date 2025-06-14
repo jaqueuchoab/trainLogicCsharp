@@ -48,6 +48,6 @@ public class AreaCirculo {
 
   // Método para exibir a àrea do círculo
   public void ExibirAreaCirulo() {
-    Console.WriteLine($"A àrea do círculo com raio = {raio} é: {CalcularArea().ToString("F4")}");
+    Console.WriteLine($"A área do círculo com raio = {raio} é: {CalcularArea().ToString("F4")}");
   }
 }
