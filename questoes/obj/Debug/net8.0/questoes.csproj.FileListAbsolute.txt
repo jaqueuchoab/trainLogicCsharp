@@ -12,3 +12,4 @@
 /home/jaqueline/Área de Trabalho/C# - Anotations/logic-diagnosis/questoes/obj/Debug/net8.0/questoes.pdb
 /home/jaqueline/Área de Trabalho/C# - Anotations/logic-diagnosis/questoes/obj/Debug/net8.0/questoes.genruntimeconfig.cache
 /home/jaqueline/Área de Trabalho/C# - Anotations/logic-diagnosis/questoes/obj/Debug/net8.0/ref/questoes.dll
+/home/jaqueline/Área de Trabalho/C# - Anotations/logic-diagnosis/questoes/obj/Debug/net8.0/questoes.sourcelink.json
